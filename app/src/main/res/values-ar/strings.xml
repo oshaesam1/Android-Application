@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">المتحقق</string>
+    <string name="username_hint">اسم المستخدم</string>
+    <string name="password_hint">كلمة المرور</string>
+    <string name="hint_email">البريد الإلكتروني</string>
+    <string name="hint_password">كلمة المرور</string>
+    <string name="login">تسجيل الدخول</string>
+    <string name="register">مستخدم جديد</string>
+    <string name="settings">اعدادات</string>
+</resources>
